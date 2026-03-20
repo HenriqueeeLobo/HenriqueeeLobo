@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋#
 
 Hello, world! I'm Henrique Lôbo — CS Student. Welcome to my profile.
 
